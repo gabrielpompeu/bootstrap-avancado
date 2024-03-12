@@ -1,0 +1,38 @@
+header {
+    padding: 8px;
+    text-align: left;
+    font-family: "Slabo 27px", serif;
+    color: #000000;
+}
+
+header .container {
+    display: flex;
+    align-items: center;
+}
+
+header img {
+    margin-right: 20px; 
+    width: 200px; 
+    height: auto; 
+}
+
+header h1 {
+    font-size: 34px; 
+}
+
+article {
+    margin-bottom: 24px;
+}
+
+#carousel{
+    margin-bottom: 24px;
+}
+
+.card-body {
+    text-align: center; /* Centraliza o texto */
+}
+
+.card-title,
+.card-text {
+    text-align: center; /* Centraliza o texto */
+}
